@@ -1,0 +1,5 @@
+{
+  "name": "Paradise Professional Unisex Salon & Beauty",
+  "description": "Premium unisex salon in Marol & Andheri East, Mumbai offering expert hair styling, beauty treatments, and grooming services.",
+  "requestFramePermissions": ["geolocation"]
+}
